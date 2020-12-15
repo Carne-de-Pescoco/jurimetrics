@@ -92,6 +92,7 @@ target/
 *.xlsx
 *.pqt
 *.csv
+*.docx
 
 # PowerBI
 *.pbix
